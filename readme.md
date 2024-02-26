@@ -4,7 +4,7 @@
 
 - Chris jackson 
 - Aurthor b 
-- Aurthor c
+- Aurthor c (check if wants to work)
 
 ## Description 
 
