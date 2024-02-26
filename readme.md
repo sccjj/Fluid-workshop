@@ -4,7 +4,7 @@
 
 - Chris jackson 
 - Aurthor b 
-- Aurthor c
+
 
 ## Description 
 
