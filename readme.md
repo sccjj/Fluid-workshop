@@ -20,3 +20,6 @@ add instruct
 ## vsc test
 
 add a change via vscode
+
+# requirments
+this code runs in windows/linux
