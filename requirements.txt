@@ -1,0 +1,3 @@
+- black 24.2.0
+- pytest 8.1.0
+- python 3.12.2
